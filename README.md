@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Varchas-Shetty
 - 👀 I’m interested in learning new tech things
-- 🌱 I’m currently in first year cse
+- 🌱 I’m currently in second year cse
 - 💞️ I’m looking to collaborate with other developers
 - 📫 How to reach me ... @varchas_shetty insta id
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ...
 
 <!---
